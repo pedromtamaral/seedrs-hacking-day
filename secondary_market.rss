@@ -7,8 +7,12 @@
 The Seedrs Secondary Market is the place for investors to buy and sell shares from each other.
 </description>
 <item>
-<title>Market is closed!</title>
-<link>https://pedromtamaral.github.io/seedrs-hacking-day/market_open</link>
+<title>Market is open!</title>
+<link>https://www.youtube.com/watch?v=P6CTRo71S5o</link>
 </item>
-</channel>
+<item>
+<title>Market is closed!</title>
+<link>https://www.youtube.com/watch?v=dQw4w9WgXcQ</link>
+</item>
+  </channel>
 </rss>
