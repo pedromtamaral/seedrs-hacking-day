@@ -1,16 +1,16 @@
 <rss version="2.0">
 <channel>
 <title>New Campaigns at Seedrs</title>
-<link>https://www.seedrs.com/invest</link>
 <description>
 Online investing opportunities in the best new startup businesses, and raise seed and angel investment, with top European equity crowdfunding site Seedrs.
 </description>
-<item>
-<title>TAPPED Birch Water</title>
-<description>
-We make natural, healthy drinks from birch water, the rejuvenating liquid which flows inside birch trees.
-</description>
-<link>"http://seedrs.com/tapped"</link>
-</item>
+<link>https://www.seedrs.com/invest</link>
+  <item>
+    <title>TAPPED Birch Water</title>
+    <description>
+    We make natural, healthy drinks from birch water, the rejuvenating liquid which flows inside birch trees.
+    </description>
+    <link>"http://seedrs.com/tapped"</link>
+  </item>
 </channel>
 </rss>
