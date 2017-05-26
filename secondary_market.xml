@@ -1,4 +1,5 @@
-<rss encoding="UTF-8" version="1.0">
+<xml encoding="UTF-8" version="1.0">
+<rss version="2.0">
 <channel>
 <title>Seedrs Secondary Market</title>
 <link>https://www.seedrs.com/secondary-market</link>
@@ -6,8 +7,9 @@
 The Seedrs Secondary Market is the place for investors to buy and sell shares from each other.
 </description>
 <item>
-<title>Market is open!</title>
+<title>Market is closed!</title>
 <link>https://www.youtube.com/watch?v=P6CTRo71S5o</link>
 </item>
 </channel>
 </rss>
+</xml>
